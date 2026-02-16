@@ -1,5 +1,5 @@
 # AORA Project skin
-Ver. 0.8.2
+Ver. 0.8.4
 
 Only for OSU!Lazer
 
